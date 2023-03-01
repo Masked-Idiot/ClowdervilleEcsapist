@@ -1,0 +1,216 @@
+<welcome>
+Loosely based on a true story about four house hold cats
+Muffin: Ah! Where am I?!?!?!
+Spicy: This is the Clowderville prison, you're in here for stealing others cat treats.
+Muffin: WHAT DO YOU MEAN!?!?!?!? I DIDN'T STEAL ANY TREATS!!!
+Spicy: We have cameras all around the city, we can see everything you do, without you even noticing.
+Muffin: (Why are there cameras here?) I told you before! That wasn't me!
+Spicy: *plays clip of muffin stealing treats*
+Muffin: That wasn't me! That was my twin sister, Cake!
+Muffin: (I gotta get out of here!)
+Spicy: Neow I need to go get something, stay here and DON'T! DO! ANYTHING!
+*choices*
+Type "chase" to get your revenge by chasing the guard, or type "wait" and let her get away...
+
+
+<chase>
+Spicy: Huh?! You're not suppose to be out here!
+People1: Is that a prisoner?!
+Type "scratch" to scratch the guard or type "elevator" and, well, it's self-explanatory
+you use the elevator.
+
+
+<scratch>
+Muffin: HAY YAAAA!!!
+*jumps on spicy*
+Spicy: AH!! STOP!! GET OFF OF ME!!!
+Muffin: If you say so >:)
+*jumps off of spicy*
+Type "key" to steal the guards key or type "tackle" to tackle the guard
+
+
+<key>
+Spicy: Hey! Give back my key!
+Muffin: NO! WHY WOULD I GIVE THIS KEY TO THE PERSON THAT TRIED TO LOCK ME UP!?!??!
+Type "storage" to enter the storage room and use something in there, or type "stairs" and go to the top floor.
+
+
+<storage>
+Muffin: Okay there is a vent, and a controller? Why is there a controller in here?
+Muffin: Well, which one should I use?
+Type "vent" to crawl through the vents and try to escape or type "controller"
+and use the random controller that I forgot in there.
+
+
+<controller>
+Muffin: Okay, the controller, what is this for?
+Muffin: Well might as well see how it performs!
+*spams on the controller*
+*controller opens closest door*
+Spicy: *confused*
+Mfn: I don't know either
+Spicy: GET HER!!!
+Muffin: welp I did use a random controller
+Muffin: that I've never seen before to open a door without me knowing what it did.
+Muffin: So I guess that is on me.
+Spicy: Well, past whatever that was, time to go to your cell!
+Muffin: NO!
+Spicy: Yes. Bye now.
+
+
+<stairs>
+Warden: Oh, you're that prisoner that attacked my worker, well I'm not like other wardens.
+Warden: I don't let escapees have "final words", I just make them suffer
+Warden: now, off to the dogs with you ...
+Muffin: What?! Dogs?! Oh no....
+Warden: Yes. What you no understand? Whatever, [ B E G O N E ]
+Muffin: AAAAAAHHHHHHHHHHHH
+
+
+<tackle>
+Spicy: NOO!!
+Muffin: OH YES!!
+*accidentally makes spicy faint*
+Muffin: Oops
+People1: OOOHHHH
+Muffin: *starts running and panting* I GOTTA GET OUT OF HERE!
+Muffin: (Okay, think. I could hide or ... *gasp* I see a way to escape! But which one should I do?)
+Type "hide" to hide and wait for them to forget about you
+or type "escape" to get an early outing
+
+
+!<hide>
+Muffin: *sigh*
+Butterscotch: Hello there...
+Muffin: Who are you?
+Butterscotch: I'm Butterscotch, now can i give you a deal?
+Muffin: What kind of deal?
+Butterscotch: You give me tuna, I help you escape.
+Muffin: Deal!
+*one month later*
+Butterscotch: Okay, now I can just put this can there, perfect!
+Muffin: Uhhh, what is this?
+Butterscotch: I promised I would help you escape, this is how
+Muffin: And what is this?
+Butterscotch: It's a ladder. It goes to this vent.
+Muffin: Ohhh, that makes sense.
+Butterscotch: Now come on, we don't want the guards finding out about this...
+Muffin: Alright
+Butterscotch: *closes vent right before Muffin can get in*
+Muffin: Hey! You said you would help me!
+Butterscotch: You didn't think I actually meant, it did you?
+*guards bust in to the room*
+Butterscotch: Welp, see you later!
+Muffin: NO! YOU WON'T GET AWAY WITH THIS!!!
+Butterscotch: Oh, I already have...
+Muffin: NOOOOO!!!
+
+
+!<escape>
+*starts running faster*
+Person1: *walks out of elevator* Huh?!
+Muffin: *crashes into person1* AH!
+Person1: Ugh, wait a minute. oh! You're the cat that just attacked Spicy!
+Muffin: Ugh, huh?
+Person1: Okay, *looks at paper* Muffin? Time to take you to you're cell
+Muffin: What?!
+Person1: Yup! It should be right... here!
+Muffin: But...
+Person1: Nope, I know you stole those treats, we caught it all on camera, Spicy already showed you the clip, right?
+Muffin: Not here again...
+Person1: Again? Well whatever, looks like you've been caught red handed!
+
+
+!<elevator>
+*elevator closes*
+*people run into elevator doors*
+Would you like to go to the top floor by typing "top", or the basement by "basement"?
+
+
+!<top>
+*ding*
+Warden: Who. Are. You?
+Type "bonk" to bonk the warden on the head, or type "window" to do *something* with the window
+I'm not really sure about that one thought
+
+
+!<window>
+*charges at window*
+Muffin: OFF TO FREEDOOOOOM!!!!
+Warden: Aw man, I didn't get to give her to the dogs
+
+
+!<bonk>
+Muffin: I am (dang, whats a good real sounding fake name???)
+Muffin: Katze Gaot, and I was sent to check in on the prison
+Warden: If there was someone coming, then I would know.
+Muffin: That's the neat part, you don't
+*bonks warden on the head hard enough to make him faint*
+
+
+!<basement>
+*ding*
+Muffin: Okay, gotta think quick! There is a tank and a vent. What can I do?
+Type "tank" to use the tank somehow, or type "vent" to crawl through the vents
+
+
+!<tank>
+Muffin: Okay, I could try and hijack this thing, if I can
+Muffin: or I could try and figure out how to drive this thing.
+Type "drive" to attempt to drive the tank
+Or type "hijack" to try and hijack the metal beast
+
+
+!<hijack>
+Muffin: Hijack it is, but how? Huh? Oh! It's a rerouter! I could use that!
+*puts rerouter on back of tank*
+Muffin: Okay, now to turn this bad boy on!
+*turns on rerouter*
+*nothing happens*
+Muffin: Well that did a whole lot of-
+*rerouter does something*
+Muffin: OH CRAP
+*tanks drives up the wall at blinding speeds*
+Muffin: AAAHHHH
+*tanks slams into ground with tracks down*
+Muffin: What the heck just happened???
+*pops open door on top of the tank*
+Muffin: Oh, I'm out!
+
+
+!<drive>
+Muffin: Okay, now how do I drive this thing? Maybe this button?
+*tank drives backward into wall and faces down*
+Muffin: Okay so that's not it, what about this one?
+*tank fires and shoots into ceiling, braking into the main floor*
+Muffin: What just happened?
+Spicy: How did you do that?
+Muffin: Oh great, you again...
+Spicy: How did you...
+Muffin: Don't ask questions that you don't want answers to, also I don't know
+Spicy: SOMEONE HELP ME GET THIS CAT OUT OF THIS TANK!!!
+Muffin: Dang it.... To my cell it is then...
+
+
+<vent>
+Muffin: It's so cramped in here!
+Spicy: Did anyone hear that?!?!
+Person1: Hear what?
+Spicy: I heard the prisoner!
+Person2: I didn't hear anything
+Person1: I didn't either
+Spicy: IT DOESN'T MATTER IF YOU HEARD HER OR NOT!!! SHE'S STILL IN HERE AND WE NEED TO FIND HER NEOW!
+Muffin: (don't. say. anything. don't even make a sound.)
+*pops open vent from the inside out*
+Muffin: Oh. My. Gosh. I'm free. I'm free! I'M FREE!!!
+
+
+<wait>
+*five hours later*
+Muffin: ARGAGGHGHGHH!! ITS BEEN FIVE HOURS!! WHERE IS SHE!?!??!?!?
+*door opens*
+Spicy: Okay, time to take you to your cell.
+Muffin: FINALLY!!! ITS ABOUT TIME YOU TOOK ME OUT OF THIS HORRID PLACE!!!
+
+The End, Thanks for playing my game! You just got one of many endings in this game!
+Try to get them all!
